@@ -1,6 +1,6 @@
 {
   "name": "@alfiexx/ai-music-ai-video-analyzer",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Analyze audio files for beats, BPM, phrases, and recommended cut points",
   "main": "src/index.cjs",
   "bin": {
