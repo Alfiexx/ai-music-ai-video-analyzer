@@ -1,0 +1,38 @@
+{
+  "name": "@alfiexx/ai-music-ai-video-analyzer",
+  "version": "1.0.0",
+  "description": "Analyze audio files for beats, BPM, phrases, and recommended cut points",
+  "main": "src/index.cjs",
+  "bin": {
+    "ai-music-ai-video-analyzer": "./src/index.cjs"
+  },
+  "scripts": {
+    "test": "echo \"No tests yet\" && exit 0"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
+  },
+  "dependencies": {
+    "essentia.js": "^0.1.3",
+    "ffmpeg-static": "^5.3.0",
+    "node-wav": "^0.0.2"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "keywords": [
+    "music",
+    "audio",
+    "analysis",
+    "beats",
+    "bpm",
+    "video-editing",
+    "cut-points"
+  ],
+  "author": "Alfiexx",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alfiexx/ai-music-ai-video-analyzer.git"
+  }
+}

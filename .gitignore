@@ -1,0 +1,5 @@
+# npm credentials (contains TOKEN)
+.npmrc
+
+# Dependencies
+node_modules/
